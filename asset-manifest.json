@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-nba/static/css/main.357411f0.css",
+    "main.js": "/project-nba/static/js/main.cb45c5db.js",
+    "index.html": "/project-nba/index.html",
+    "main.357411f0.css.map": "/project-nba/static/css/main.357411f0.css.map",
+    "main.cb45c5db.js.map": "/project-nba/static/js/main.cb45c5db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.357411f0.css",
+    "static/js/main.cb45c5db.js"
+  ]
+}
